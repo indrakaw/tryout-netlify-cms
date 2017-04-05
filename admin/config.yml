@@ -1,0 +1,9 @@
+backend:
+  name: github
+  repo: indrakaw/tryout-netlify-cms
+  branch: master
+
+publish_mode: editorial_workflow
+
+media_folder: "images/uploads"
+
